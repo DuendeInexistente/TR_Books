@@ -17,6 +17,7 @@ do
 done < monolibro.json
 ```
 
+The files at this point had a bunch of fake escape sequences. I had to replace `\\(\w)` with `\\\\\1` across the whole folder.
 
 Add headers to files:
 
