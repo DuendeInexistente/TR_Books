@@ -1,1 +1,43 @@
-{"type":"Book","flags":"","id":"T_EnSc_Com_Anticipations","name":"Scroll of The Anticipations","script":"","mesh":"m\\text_scroll_01.nif","icon":"m\\tx_scroll_open_01.tga","enchanting":"T_Once_Anticipations","text":"<DIV ALIGN=\"center\"><FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Daedric\"><BR>\\r\\n\\r\\nSend for<P>\\r\\nThe Winged Messenger of the Mother Soul<P>\\r\\nThe Tongued Servant of the Dark Warrior<P>\\r\\nThe Child of the Queen of Oblivion<P>\\r\\n\\r\\n</FONT>\\r\\n</DIV>","data":{"weight":0.2,"value":1083,"book_type":"Scroll","skill":"None","enchantment":0}}
+[
+  {
+    "type": "Header",
+    "flags": "",
+    "version": 1.3,
+    "file_type": "Esm",
+    "author": "Cross-Project Coordination",
+    "description": "Tamriel Data Version 25.05\\r\\r \\r\\rSubmit bugs at https://github.com/TD-Addon/TamrielDataMain/issues",
+    "num_objects": 1,
+    "masters": [
+      [
+        "Morrowind.esm",
+        79837557
+      ],
+      [
+        "Tribunal.esm",
+        4565686
+      ],
+      [
+        "Bloodmoon.esm",
+        9631798
+      ]
+    ]
+  },
+{
+  "type": "Book",
+  "flags": "",
+  "id": "T_EnSc_Com_Anticipations",
+  "name": "Scroll of The Anticipations",
+  "script": "",
+  "mesh": "m\\text_scroll_01.nif",
+  "icon": "m\\tx_scroll_open_01.tga",
+  "enchanting": "T_Once_Anticipations",
+  "text": "<DIV ALIGN=\"center\"><FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Daedric\"><BR>\\r\\n\\r\\nSend for<P>\\r\\nThe Winged Messenger of the Mother Soul<P>\\r\\nThe Tongued Servant of the Dark Warrior<P>\\r\\nThe Child of the Queen of Oblivion<P>\\r\\n\\r\\n</FONT>\\r\\n</DIV>",
+  "data": {
+    "weight": 0.2,
+    "value": 1083,
+    "book_type": "Scroll",
+    "skill": "None",
+    "enchantment": 0
+  }
+}
+]

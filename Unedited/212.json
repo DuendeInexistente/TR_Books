@@ -1,1 +1,43 @@
-{"type":"Book","flags":"","id":"T_Bk_BlueBookTR","name":"Grey Book of 3E 426","script":"","mesh":"TR\\m\\TR_book_grey_dres.nif","icon":"TR\\m\\tr_tx_dres_bluebook.dds","enchanting":"","text":" <DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\\r\\nGrey Book of Great House Dres<BR><BR>\\r\\n<DIV ALIGN=\"LEFT\"><BR><BR>\\r\\n[The Grey Book is a yearbook of the affairs of the Dres High Council for 3E 426. It lists the current members of the council and their residences. It also chronicles significant events and council actions for the year.]<BR>","data":{"weight":3.0,"value":60,"book_type":"Book","skill":"None","enchantment":20}}
+[
+  {
+    "type": "Header",
+    "flags": "",
+    "version": 1.3,
+    "file_type": "Esm",
+    "author": "Cross-Project Coordination",
+    "description": "Tamriel Data Version 25.05\\r\\r \\r\\rSubmit bugs at https://github.com/TD-Addon/TamrielDataMain/issues",
+    "num_objects": 1,
+    "masters": [
+      [
+        "Morrowind.esm",
+        79837557
+      ],
+      [
+        "Tribunal.esm",
+        4565686
+      ],
+      [
+        "Bloodmoon.esm",
+        9631798
+      ]
+    ]
+  },
+{
+  "type": "Book",
+  "flags": "",
+  "id": "T_Bk_BlueBookTR",
+  "name": "Grey Book of 3E 426",
+  "script": "",
+  "mesh": "TR\\m\\TR_book_grey_dres.nif",
+  "icon": "TR\\m\\tr_tx_dres_bluebook.dds",
+  "enchanting": "",
+  "text": " <DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\\r\\nGrey Book of Great House Dres<BR><BR>\\r\\n<DIV ALIGN=\"LEFT\"><BR><BR>\\r\\n[The Grey Book is a yearbook of the affairs of the Dres High Council for 3E 426. It lists the current members of the council and their residences. It also chronicles significant events and council actions for the year.]<BR>",
+  "data": {
+    "weight": 3.0,
+    "value": 60,
+    "book_type": "Book",
+    "skill": "None",
+    "enchantment": 20
+  }
+}
+]

@@ -1,1 +1,43 @@
-{"type":"Book","flags":"","id":"T_BkGen_ShippingLog_01","name":"Shipping Log","script":"","mesh":"m\\Text_Octavo_open_02.NIF","icon":"m\\Tx_octavo_open_02.tga","enchanting":"","text":"[This log records shipping activities on the docks, detailing incoming and outgoing ships, their cargo and passengers.]<BR>\\r\\n<BR>","data":{"weight":2.0,"value":0,"book_type":"Book","skill":"None","enchantment":0}}
+[
+  {
+    "type": "Header",
+    "flags": "",
+    "version": 1.3,
+    "file_type": "Esm",
+    "author": "Cross-Project Coordination",
+    "description": "Tamriel Data Version 25.05\\r\\r \\r\\rSubmit bugs at https://github.com/TD-Addon/TamrielDataMain/issues",
+    "num_objects": 1,
+    "masters": [
+      [
+        "Morrowind.esm",
+        79837557
+      ],
+      [
+        "Tribunal.esm",
+        4565686
+      ],
+      [
+        "Bloodmoon.esm",
+        9631798
+      ]
+    ]
+  },
+{
+  "type": "Book",
+  "flags": "",
+  "id": "T_BkGen_ShippingLog_01",
+  "name": "Shipping Log",
+  "script": "",
+  "mesh": "m\\Text_Octavo_open_02.NIF",
+  "icon": "m\\Tx_octavo_open_02.tga",
+  "enchanting": "",
+  "text": "[This log records shipping activities on the docks, detailing incoming and outgoing ships, their cargo and passengers.]<BR>\\r\\n<BR>",
+  "data": {
+    "weight": 2.0,
+    "value": 0,
+    "book_type": "Book",
+    "skill": "None",
+    "enchantment": 0
+  }
+}
+]

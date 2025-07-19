@@ -1,1 +1,43 @@
-{"type":"Book","flags":"","id":"T_BkGen_TradeManifest_02","name":"Trade Manifest","script":"","mesh":"pc\\m\\PC_bk_Book_29.nif","icon":"pc\\m\\pc_bk_book_29.tga","enchanting":"","text":"<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\\r\\n<DIV ALIGN=\"LEFT\"><BR>\\r\\n[An exhaustive records of a trade shipment, noting the size and weight of all goods.]<BR>","data":{"weight":1.5,"value":2,"book_type":"Book","skill":"None","enchantment":0}}
+[
+  {
+    "type": "Header",
+    "flags": "",
+    "version": 1.3,
+    "file_type": "Esm",
+    "author": "Cross-Project Coordination",
+    "description": "Tamriel Data Version 25.05\\r\\r \\r\\rSubmit bugs at https://github.com/TD-Addon/TamrielDataMain/issues",
+    "num_objects": 1,
+    "masters": [
+      [
+        "Morrowind.esm",
+        79837557
+      ],
+      [
+        "Tribunal.esm",
+        4565686
+      ],
+      [
+        "Bloodmoon.esm",
+        9631798
+      ]
+    ]
+  },
+{
+  "type": "Book",
+  "flags": "",
+  "id": "T_BkGen_TradeManifest_02",
+  "name": "Trade Manifest",
+  "script": "",
+  "mesh": "pc\\m\\PC_bk_Book_29.nif",
+  "icon": "pc\\m\\pc_bk_book_29.tga",
+  "enchanting": "",
+  "text": "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\\r\\n<DIV ALIGN=\"LEFT\"><BR>\\r\\n[An exhaustive records of a trade shipment, noting the size and weight of all goods.]<BR>",
+  "data": {
+    "weight": 1.5,
+    "value": 2,
+    "book_type": "Book",
+    "skill": "None",
+    "enchantment": 0
+  }
+}
+]

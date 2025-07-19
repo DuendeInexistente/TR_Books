@@ -1,1 +1,43 @@
-{"type":"Book","flags":"","id":"T_BkGenPI_MessageRegistry_01","name":"Message Registry","script":"","mesh":"pi\\m\\pi_sc_palm_closed_01.nif","icon":"pi\\m\\pi_sc_palm_closed_01.dds","enchanting":"","text":"<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\\r\\n<DIV ALIGN=\"LEFT\"><BR>\\r\\n[This registry records incoming and outgoing messages.]<BR>","data":{"weight":1.2,"value":5,"book_type":"Scroll","skill":"None","enchantment":0}}
+[
+  {
+    "type": "Header",
+    "flags": "",
+    "version": 1.3,
+    "file_type": "Esm",
+    "author": "Cross-Project Coordination",
+    "description": "Tamriel Data Version 25.05\\r\\r \\r\\rSubmit bugs at https://github.com/TD-Addon/TamrielDataMain/issues",
+    "num_objects": 1,
+    "masters": [
+      [
+        "Morrowind.esm",
+        79837557
+      ],
+      [
+        "Tribunal.esm",
+        4565686
+      ],
+      [
+        "Bloodmoon.esm",
+        9631798
+      ]
+    ]
+  },
+{
+  "type": "Book",
+  "flags": "",
+  "id": "T_BkGenPI_MessageRegistry_01",
+  "name": "Message Registry",
+  "script": "",
+  "mesh": "pi\\m\\pi_sc_palm_closed_01.nif",
+  "icon": "pi\\m\\pi_sc_palm_closed_01.dds",
+  "enchanting": "",
+  "text": "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\\r\\n<DIV ALIGN=\"LEFT\"><BR>\\r\\n[This registry records incoming and outgoing messages.]<BR>",
+  "data": {
+    "weight": 1.2,
+    "value": 5,
+    "book_type": "Scroll",
+    "skill": "None",
+    "enchantment": 0
+  }
+}
+]
